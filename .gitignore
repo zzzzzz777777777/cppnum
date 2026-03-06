@@ -1,0 +1,25 @@
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CMake files
+CMakeLists.txt.user
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+
+# IDE files
+*.idea/
+*.vscode/
+*.workspace
+*.sublime-workspace
+*.sublime-project
+
+# Compiled binaries
+bin/
+build/
+out/
